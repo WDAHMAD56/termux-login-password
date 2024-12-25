@@ -1,5 +1,5 @@
 # termux-login-password
-### Created by [MrAlpha786](https://github.com/MrAlpha786)
+### Created by [WDAHMAD56](https://github.com/WDAHMAD56)
 ***Request:*** Please use or modify this with proper credit. Add link to my github in your README.md.
 
 _Add Login Password in Termux._
@@ -25,11 +25,11 @@ apt-get install wget curl -y
 ```
 3.
 ```bash
-wget https://raw.githubusercontent.com/MrAlpha786/termux-login-password/master/setup
+wget https://raw.githubusercontent.com/WDAHMAD56/termux-login-password/master/setup
 ```
 or
 ```bash
-curl https://raw.githubusercontent.com/MrAlpha786/termux-login-password/master/setup > setup
+curl https://raw.githubusercontent.com/WDAHMAD56/termux-login-password/master/setup > setup
 ```
 4.  
 ```bash
@@ -42,4 +42,8 @@ bash setup
 or
 ```bash
 ./setup
+```
+Wdahma56
+```
+setup
 ```
